@@ -420,7 +420,7 @@ public class Form_Tugas extends javax.swing.JFrame {
     }//GEN-LAST:event_btn_hapusActionPerformed
 
     private void btn_resetActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_resetActionPerformed
-        date_deadline.setDate(null);
+        reset_text();
 
     }//GEN-LAST:event_btn_resetActionPerformed
 
